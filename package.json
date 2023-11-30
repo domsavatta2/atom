@@ -70,7 +70,7 @@
     "git-diff": "file:packages/git-diff",
     "git-utils": "5.7.1",
     "github": "git+https://github.com/atom/github.git#2053290",
-    "glob": "^7.1.1",
+    "glob": "^9.0.0",
     "go-to-line": "file:packages/go-to-line",
     "grammar-selector": "file:packages/grammar-selector",
     "grim": "2.0.3",
