@@ -7,7 +7,7 @@
     "@octokit/request": "^5.4.5",
     "async": "^3.2.2",
     "babel-core": "6.10.4",
-    "babel-eslint": "^10.0.1",
+    "babel-eslint": "^10.1.0",
     "cheerio": "1.0.0-rc.2",
     "coffeelint": "1.16.0",
     "colors": "1.1.2",
