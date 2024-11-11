@@ -4,7 +4,7 @@
   "dependencies": {
     "7zip-bin": "^4.0.2",
     "@atom/electron-winstaller": "0.0.1",
-    "@octokit/request": "^5.4.5",
+    "@octokit/request": "^6.0.1",
     "async": "^3.2.2",
     "babel-core": "6.10.4",
     "babel-eslint": "^10.0.1",
@@ -52,7 +52,7 @@
     "tello": "1.2.0",
     "terser": "^4.8.1",
     "webdriverio": "^5.9.2",
-    "yargs": "13.2.4",
+    "yargs": "13.3.0",
     "@snyk/protect": "latest"
   },
   "scripts": {
