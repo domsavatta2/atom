@@ -11,6 +11,6 @@
     "request": "^2.88.0",
     "request-promise-native": "^1.0.5",
     "semver": "5.7.2",
-    "yargs": "13.2.4"
+    "yargs": "13.3.0"
   }
 }
