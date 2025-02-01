@@ -46,7 +46,7 @@
     "season": "5.3.0",
     "semver": "5.7.2",
     "simple-git": "^3.16.0",
-    "stylelint": "^14.0.0",
+    "stylelint": "^16.14.0",
     "stylelint-config-standard": "^18.1.0",
     "sync-request": "3.0.1",
     "tello": "1.2.0",
